@@ -1,4 +1,4 @@
-#Bug reproduction
+# Bug reproduction
 
 https://github.com/NikolaRHristov/astro-compress/issues/27
 
