@@ -1,3 +1,5 @@
+Fix through https://github.com/NikolaRHristov/astro-compress/commit/ad59f857a9d7c3dc00e0c90cda8ba8005b5e4235
+
 # Bug reproduction
 
 https://github.com/NikolaRHristov/astro-compress/issues/27
